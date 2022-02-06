@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/55001756/152683588-47a095db-15c7-4da8-8963-da7555042640.png)
+
 # RoboElectric_Test
 App de Inventario con arquitectura de Componenetes recomendada por Google. Y su estrctura base con MVVM.
 
