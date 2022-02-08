@@ -8,16 +8,7 @@ import androidx.lifecycle.MutableLiveData
 import com.cursosandroidant.inventory.entities.Product
 import com.cursosandroidant.inventory.mainModule.model.MainRepository
 
-/****
- * Project: Inventory
- * From: com.cursosandroidant.inventory.mainModule.viewModel
- * Created by Alain Nicolás Tello on 15/12/21 at 19:38
- * All rights reserved 2021.
- *
- * All my Udemy Courses:
- * https://www.udemy.com/user/alain-nicolas-tello/
- * Web: www.alainnicolastello.com
- ***/
+
 class MainViewModel(application: Application) : AndroidViewModel(application) {
     private val repository = MainRepository(application)
 

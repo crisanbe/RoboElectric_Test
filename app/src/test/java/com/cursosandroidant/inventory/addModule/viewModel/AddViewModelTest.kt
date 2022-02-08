@@ -11,6 +11,7 @@ import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
 
+
 @RunWith(AndroidJUnit4::class)
 class AddViewModelTest : TestCase() {
     @get:Rule//Arquitectura de componentes para las pruebas unitarias
